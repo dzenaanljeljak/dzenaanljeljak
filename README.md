@@ -1,9 +1,9 @@
 # Zdravo, ja sam Dženan 👋
 
-💻 Student računarstva
-🥋 Kickbox i borilački sportovi
-⚡ Flowcode & digitalna logika
-🚀 Učim programiranje i rad na embedded projektima
+- 💻 Student računarstva
+- 🥋 Kickbox i borilački sportovi
+- ⚡ Flowcode & digitalna logika
+- 🚀 Učim programiranje i rad na embedded projektima
 
 ## Projekti
 
