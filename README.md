@@ -1,16 +1,24 @@
-## Hi there 👋
+# Zdravo, ja sam Dženan 👋
 
-<!--
-**dzenaanljeljak/dzenaanljeljak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Student računarstva
+🥋 Kickbox i borilački sportovi
+⚡ Flowcode & digitalna logika
+🚀 Učim programiranje i rad na embedded projektima
 
-Here are some ideas to get you started:
+## Projekti
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔐 Šifrirani sistem u Flowcode-u
+* ⏱️ Digitalna stoperica
+* 🔌 Logička kola i mikrokontroleri
+
+## Tehnologije
+
+* Flowcode
+* HTML & CSS
+* C osnove
+* Git & GitHub
+
+## Cilj
+
+Napredovati u programiranju i praviti sve ozbiljnije projekte iz elektronike i embedded sistema.
+
